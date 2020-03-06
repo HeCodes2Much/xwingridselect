@@ -57,7 +57,7 @@ Config file is created automatically on a first program run and stored in `~/.co
 
 ### Installation:
 
-* ArchLinux: Coming Soon
+* ArchLinux: [AUR](https://aur.archlinux.org/packages/xwingridselect-git/)
 
 Other distributions/development:
 
