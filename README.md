@@ -77,3 +77,25 @@ Other distributions/development:
 	WindowClass2 = #445566
 	# For other windows to use. You can omit that line and it will use standard colorizing scheme.
 	fallback = #f1fa8c; #bd93f9; #ff5555; #6be5fd; #50fa7b; #E6DB74; #F83333; #ffb86c; #8BE9FD; #FF79C6;
+
+
+### Example shell script
+
+	declare options=("thunar
+	xwingridselect
+	google-chrome-stable
+	lxrandr
+	discord
+	code
+	hexchat
+	bitwarden
+	quit")
+
+	choice=$(echo -e "${options[@]}" | xwingridselect -r)
+
+	if [ "$choice" = "quit" ];
+	then
+	    echo "Program terminated." && exit 1
+	else
+	    exec $choice
+	fi
