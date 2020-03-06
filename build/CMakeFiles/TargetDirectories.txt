@@ -1,0 +1,13 @@
+/home/dt/Downloads/xwingridselect-master/build/CMakeFiles/rebuild_cache.dir
+/home/dt/Downloads/xwingridselect-master/build/CMakeFiles/install/strip.dir
+/home/dt/Downloads/xwingridselect-master/build/CMakeFiles/install/local.dir
+/home/dt/Downloads/xwingridselect-master/build/CMakeFiles/edit_cache.dir
+/home/dt/Downloads/xwingridselect-master/build/CMakeFiles/list_install_components.dir
+/home/dt/Downloads/xwingridselect-master/build/CMakeFiles/install.dir
+/home/dt/Downloads/xwingridselect-master/build/src/CMakeFiles/install/strip.dir
+/home/dt/Downloads/xwingridselect-master/build/src/CMakeFiles/install/local.dir
+/home/dt/Downloads/xwingridselect-master/build/src/CMakeFiles/edit_cache.dir
+/home/dt/Downloads/xwingridselect-master/build/src/CMakeFiles/xwingridselect.dir
+/home/dt/Downloads/xwingridselect-master/build/src/CMakeFiles/rebuild_cache.dir
+/home/dt/Downloads/xwingridselect-master/build/src/CMakeFiles/list_install_components.dir
+/home/dt/Downloads/xwingridselect-master/build/src/CMakeFiles/install.dir
