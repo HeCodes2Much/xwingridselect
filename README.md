@@ -1,7 +1,7 @@
 XWinGridSelect
 ==========
 
-X11 window switcher that draws windows list as a colorful mosaic
+X11 window switcher that draws windows list as a colorful grid
 ------------------------------------------------------------
 
 Inspired by [XMonad.Actions.GridSelect](http://xmonad.org/xmonad-docs/xmonad-contrib/XMonad-Actions-GridSelect.html), but written in C + GTK+2, uses nice-looking colors and has some set of helpful features.
@@ -15,7 +15,7 @@ Config file is created automatically on a first program run and stored in `~/.co
 
 ### Usage:
     Usage:
-      xwingridselect [OPTION...]  - show X11 windows as color mosaic
+      xwingridselect [OPTION...]  - show X11 windows as color grid
 
     Help Options:
       -h, --help                   Show help options
@@ -38,7 +38,7 @@ Config file is created automatically on a first program run and stored in `~/.co
       -D, --no-desktops            Turn off showing desktop number
       -T, --no-titles              Turn off showing titles
       -S, --screenshot             Get screenshot and set it as a background (for WMs that do not support XShape)
-      -P, --at-pointer             Place center of mosaic at pointer position.
+      -P, --at-pointer             Place center of grid at pointer position.
       -s, --selected=<N>           Select box number N at spawn. (default: 0)
       -W, --box-width=<int>        Width of the boxes (default: 200)
       -H, --box-height=<int>       Height of the boxes (default: 40)
